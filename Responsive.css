@@ -1,0 +1,39 @@
+
+  @media screen and (max-width:680px){
+	body{
+		background-color:#e8e8ff;
+	}
+.utter{
+			
+			margin-left:10px;
+			width:90%;
+			height:350px;
+			font-size:25px;font-size:30px;		
+}
+.shadow{
+	margin-left:10px;
+	width:95%;
+	font-size:35px;
+	line-height:60px;
+	
+}
+.shadow h2{
+	font-size:40px;
+}
+.img{
+	width:200px;
+	margin-left:0px;
+	margin-right:0px;
+	padding:0px;
+	
+}
+  }
+
+  @media screen and (min-width:680px){
+	  
+	  
+	  
+	  
+	  
+	  
+  }
